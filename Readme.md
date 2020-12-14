@@ -7,5 +7,3 @@ Untuk menghindari keretakan software dikarenakan perubahan secara langsung terha
 ## Tentang Program
 jika kalian mengubah salah satu fungsi maka akan mempengaruhi fungsi yang lain. 
 Program ini berjalan pada console.
-
-by.PasteProsmana
